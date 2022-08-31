@@ -1,5 +1,4 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula)](https://git.io/streak-stats)
 
 ## 공대베짱이
 
