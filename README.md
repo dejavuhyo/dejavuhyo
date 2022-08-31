@@ -1,5 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dejavuhyo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dark)](https://git.io/streak-stats)
 
 ## 공대베짱이
 
