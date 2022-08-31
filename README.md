@@ -1,5 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)
 
+https://github-readme-streak-stats.herokuapp.com/?user=dejavuhyo
+
 ## 공대베짱이
 
 * Software Engineer
