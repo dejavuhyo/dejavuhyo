@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula)](https://git.io/streak-stats)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
 ## 공대베짱이
 
@@ -17,6 +13,10 @@
 * GitHub Blog: [https://dejavuhyo.github.io](https://dejavuhyo.github.io)
 
 * 네이버 블로그: [http://blog.naver.com/dejavuhyo](http://blog.naver.com/dejavuhyo)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula)](https://git.io/streak-stats)
 
 ## Skill
 
