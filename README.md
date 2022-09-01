@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome~%20render&fontSize=90)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula)](https://git.io/streak-stats)
