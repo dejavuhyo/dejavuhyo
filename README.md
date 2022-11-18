@@ -2,7 +2,7 @@
 
 ## 공대베짱이
 
-* Software Developer
+* Software Engineer
 
 * Application Architecture
 
