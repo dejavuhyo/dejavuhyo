@@ -15,7 +15,7 @@
 #### ▶ Language
 
 <div align="left">
-    <img src="https://img.shields.io/badge/OpenJDK-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenJDK-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
