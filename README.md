@@ -48,6 +48,7 @@
 #### ▶ Database
 
 <div align="left">
+    <img src="https://img.shields.io/badge/EnterpriseDB-FF3E00?style=for-the-badge&logo=enterprisedb&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mariadb&logoColor=white"/>
