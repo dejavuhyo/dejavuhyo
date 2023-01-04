@@ -8,7 +8,7 @@
     <img align="left" width=450 src="https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula" alt="" />
   </a>
   <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula" alt="" />
+    <img align="right" width=450 src="https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula" alt="" />
   </a>
   
 </div>
