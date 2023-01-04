@@ -5,10 +5,10 @@
 <div align=center>
   
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
-    <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula" alt="" />
+    <img align="left" width=420 src="https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula" alt="" />
   </a>
   <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula" alt="" />
+    <img align="right" width=420 src="https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula" alt="" />
   </a>
   
 </div>
