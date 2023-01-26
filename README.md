@@ -5,6 +5,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2Fdejavuhyo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub%20Hits&edge_flat=false)](https://github.com/dejavuhyo)
   
 <div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
+    <img align="left" width=394 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula" />
+  </a>
   <a href="https://git.io/streak-stats" title="GitHub Streak">
     <img align="right" width=394 src="https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula" />
   </a>
