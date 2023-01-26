@@ -9,7 +9,7 @@
     <img align="left" width=394 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula" />
   </a>
   <a href="https://git.io/streak-stats" title="GitHub Streak">
-    <img align="right" width=394 src="https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula" />
+    <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula" />
   </a>
 </div>
 
