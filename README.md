@@ -1,4 +1,4 @@
-## ✨공대베짱이 (Even if you can't eat it.)✨
+## ✨공대베짱이 (Even if you can't eat it!)✨
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dejavuhyo) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://dejavuhyo.github.io)
 
