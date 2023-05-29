@@ -3,8 +3,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dejavuhyo) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://dejavuhyo.github.io)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2Fdejavuhyo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub%20Hits&edge_flat=false)](https://github.com/dejavuhyo)
 
-<a href="https://www.buymeacoffee.com/dejavuhyo" target="_blank"><img src="https://media0.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif" alt="Buy Me A Coffee" style="height: 80px !important;width: 75px !important;" ></a>
-
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
     <img align="left" width=380 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula" />
