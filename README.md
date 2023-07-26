@@ -4,7 +4,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2Fdejavuhyo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub%20Hits&edge_flat=false)](https://github.com/dejavuhyo)
 
 <a href="https://www.buymeacoffee.com/dejavuhyo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
-
+<!--
+![공대베짱이's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dejavuhyo&theme=dracula)](https://git.io/streak-stats)
+-->
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
     <img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&count_private=true&theme=dracula" />
