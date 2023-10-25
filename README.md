@@ -7,7 +7,7 @@
 <!--
 ![공대베짱이's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&theme=dracula)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dejavuhyo&theme=dracula)](https://git.io/streak-stats)
--->
+
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
     <img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=dejavuhyo&show_icons=true&count_private=true&theme=dracula" />
@@ -16,7 +16,7 @@
     <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=dejavuhyo&theme=dracula" />
   </a>
 </div>
-
+-->
 <!--
 **dejavuhyo/dejavuhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
