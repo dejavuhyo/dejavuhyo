@@ -3,7 +3,6 @@
 ### 💻밥줄과 취미 사이 ːː 못 먹어도 고!🎸
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dejavuhyo) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)](https://dejavuhyo.github.io)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2Fdejavuhyo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub%20Hits&edge_flat=false)](https://github.com/dejavuhyo)
 
 <!--
 <a href="https://www.buymeacoffee.com/dejavuhyo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
